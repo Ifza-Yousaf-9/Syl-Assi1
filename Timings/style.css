@@ -1,0 +1,36 @@
+h1 {
+    font-family:'Times New Roman', Times, serif;
+
+    font-size: 36px;
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+nav a {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin: 10px;
+}
+
+nav a:hover {
+    color: blue;
+}
+
+table, th, td {
+    border: 1px solid;
+    width: 25%;
+
+    }
+    
+footer {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 14px;
+    text-align: center;
+    margin: 10px;
+    font-weight: 300;
+}
